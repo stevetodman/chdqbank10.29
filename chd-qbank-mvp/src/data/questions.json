@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "topic": "VSD",
+    "stem": "A 2-month-old infant presents with tachypnea and a harsh holosystolic murmur at the left lower sternal border. Which physiologic change after birth most increases the left-to-right shunt in this condition?",
+    "options": [
+      "Increase in pulmonary vascular resistance",
+      "Decrease in pulmonary vascular resistance",
+      "Closure of the foramen ovale",
+      "Decrease in systemic vascular resistance",
+      "Increase in ductus arteriosus patency"
+    ],
+    "answer": 1,
+    "explanation": "As pulmonary vascular resistance falls after birth, left-to-right shunting across the VSD increases, augmenting pulmonary overcirculation and murmur intensity.",
+    "difficulty": "Easy",
+    "tags": [
+      "pathophys",
+      "murmur"
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "ASD (Secundum)",
+    "stem": "A 5-year-old has a fixed split S2 and a systolic ejection murmur best heard at the left upper sternal border. What mechanism explains the murmur?",
+    "options": [
+      "Flow across a restrictive ventricular septal defect",
+      "Regurgitant flow through the tricuspid valve",
+      "Increased flow across the pulmonic valve",
+      "Subvalvar pulmonic stenosis",
+      "Patent ductus arteriosus"
+    ],
+    "answer": 2,
+    "explanation": "In secundum ASD, the ejection murmur reflects increased flow across the pulmonic valve; the fixed split S2 is classic due to constant RV stroke volume.",
+    "difficulty": "Easy",
+    "tags": [
+      "auscultation",
+      "hemodynamics"
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "PDA",
+    "stem": "A premature neonate develops a continuous \u2018machinery\u2019 murmur at the left infraclavicular area. Which change in oxygen tension normally promotes closure of the ductus arteriosus?",
+    "options": [
+      "Decreased oxygen tension causing smooth muscle relaxation",
+      "Increased oxygen tension causing smooth muscle contraction",
+      "Increased prostaglandin E2 levels after birth",
+      "Increased nitric oxide production in the ductus",
+      "Decreased bradykinin levels from the lungs"
+    ],
+    "answer": 1,
+    "explanation": "Rising arterial oxygen tension after birth leads to ductal smooth muscle constriction and functional closure; prostaglandins maintain patency in utero.",
+    "difficulty": "Easy",
+    "tags": [
+      "physiology",
+      "neonatal"
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Coarctation of the Aorta",
+    "stem": "A 6-day-old presents with poor feeding and lethargy. Exam shows cool lower extremities and weak femoral pulses. Which physiology best explains this presentation in a ductal-dependent coarctation?",
+    "options": [
+      "Sudden decrease in pulmonary blood flow when pulmonary vascular resistance falls",
+      "Systemic hypoperfusion due to ductal closure reducing descending aortic flow",
+      "Right-to-left shunt at the atrial level increasing systemic saturation",
+      "Increased LV preload due to increased pulmonary venous return",
+      "Acute rise in systemic vascular resistance due to prostaglandin infusion"
+    ],
+    "answer": 1,
+    "explanation": "When the ductus closes in critical coarctation, flow to the descending aorta falls, causing systemic hypoperfusion and shock; prostaglandin E1 can reopen the ductus.",
+    "difficulty": "Medium",
+    "tags": [
+      "ductal-dependent",
+      "shock"
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Tetralogy of Fallot",
+    "stem": "A 3-month-old with cyanosis has a harsh systolic murmur. Which change will DECREASE right-to-left shunting during a hypercyanotic spell?",
+    "options": [
+      "Decreasing systemic vascular resistance",
+      "Increasing systemic vascular resistance (knee-to-chest)",
+      "Decreasing preload via diuretics",
+      "Increasing contractility with isoproterenol",
+      "Administering nitric oxide"
+    ],
+    "answer": 1,
+    "explanation": "Knee-to-chest maneuvers raise systemic vascular resistance, reducing the right-to-left shunt across the VSD and improving oxygenation.",
+    "difficulty": "Medium",
+    "tags": [
+      "management",
+      "cyanosis"
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Transposition of the Great Arteries (D-TGA)",
+    "stem": "A term neonate has profound cyanosis within hours of birth that does not respond to oxygen. Chest X-ray shows an \"egg-on-a-string\" heart. What immediate intervention improves mixing?",
+    "options": [
+      "Propranolol",
+      "Dopamine",
+      "Prostaglandin E1 infusion",
+      "Amiodarone",
+      "Furosemide"
+    ],
+    "answer": 2,
+    "explanation": "Prostaglandin E1 maintains ductal patency and augments mixing in D-TGA while preparing for balloon atrial septostomy and arterial switch.",
+    "difficulty": "Easy",
+    "tags": [
+      "neonatal",
+      "ductal-dependent"
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Truncus Arteriosus",
+    "stem": "A 1-week-old with tachypnea and a single loud S2 is found to have a truncus arteriosus. Which finding is most expected on echocardiography?",
+    "options": [
+      "Two separate semilunar valves with a subaortic VSD",
+      "A single arterial trunk overriding a large VSD",
+      "Severe subpulmonic stenosis with overriding aorta",
+      "Atrioventricular septal defect with common AV valve",
+      "A large secundum ASD with no VSD"
+    ],
+    "answer": 1,
+    "explanation": "Truncus has a single arterial trunk with a large VSD supplying systemic, pulmonary, and coronary circulations; S2 is single/loud.",
+    "difficulty": "Medium",
+    "tags": [
+      "anatomy",
+      "echo"
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Total Anomalous Pulmonary Venous Return (TAPVR)",
+    "stem": "A neonate with cyanosis and respiratory distress has snowman (figure-8) sign on chest X-ray. Which is required for survival before repair?",
+    "options": [
+      "Patent ductus arteriosus only",
+      "Atrial level communication",
+      "Ventricular septal defect",
+      "Patent foramen ovale must be closed",
+      "Arterial switch operation"
+    ],
+    "answer": 1,
+    "explanation": "Systemic and pulmonary venous blood must mix via an atrial communication to sustain cardiac output in TAPVR.",
+    "difficulty": "Medium",
+    "tags": [
+      "cyanotic",
+      "mixing"
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "AV Canal (Endocardial Cushion Defect)",
+    "stem": "An infant with Down syndrome has a common atrioventricular valve and large primum ASD with inlet VSD. Which complication develops earliest without repair?",
+    "options": [
+      "Severe aortic stenosis",
+      "Pulmonary vascular obstructive disease",
+      "Coronary artery fistula",
+      "Coarctation of the aorta",
+      "Myxomatous mitral valve disease"
+    ],
+    "answer": 1,
+    "explanation": "Large left-to-right shunt can rapidly increase pulmonary blood flow and pressure, leading to early pulmonary vascular disease in complete AV canal.",
+    "difficulty": "Hard",
+    "tags": [
+      "trisomy 21",
+      "hemodynamics"
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "Ebstein Anomaly",
+    "stem": "A cyanotic neonate with a massively enlarged right atrium has a holosystolic murmur at the left lower sternal border. Which mechanism most explains cyanosis?",
+    "options": [
+      "Left-to-right shunt across ASD/PFO",
+      "Right-to-left shunt at atrial level due to severe TR",
+      "Pulmonary atresia with intact septum",
+      "Supravalvar pulmonic stenosis",
+      "Large VSD with increased PVR"
+    ],
+    "answer": 1,
+    "explanation": "Severe tricuspid regurgitation and atrialization of the RV elevate RA pressure, driving right-to-left shunting across an atrial communication.",
+    "difficulty": "Medium",
+    "tags": [
+      "cyanosis",
+      "valvular"
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "CoA \u2014 Older Child",
+    "stem": "A 9-year-old with exercise-induced leg fatigue and headaches has upper-extremity hypertension and diminished femoral pulses. Which exam finding is most characteristic?",
+    "options": [
+      "Bounding femoral pulses",
+      "Continuous machinery murmur at left infraclavicular area",
+      "Systolic murmur over the back between the scapulae",
+      "Wide, fixed splitting of S2",
+      "Diastolic rumble at the apex"
+    ],
+    "answer": 2,
+    "explanation": "In discrete juxtaductal coarctation, a systolic murmur is often heard over the left infrascapular area due to turbulent flow across the narrowed segment.",
+    "difficulty": "Easy",
+    "tags": [
+      "exam",
+      "hypertension"
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "TOF \u2014 Murmur Logic",
+    "stem": "In tetralogy of Fallot, which feature primarily determines the intensity of the systolic murmur?",
+    "options": [
+      "Size of the ventricular septal defect",
+      "Severity of right ventricular outflow obstruction",
+      "Presence of an atrial septal defect",
+      "Size of the patent ductus arteriosus",
+      "Degree of aortic override"
+    ],
+    "answer": 1,
+    "explanation": "The murmur intensity correlates with the degree of RV outflow tract obstruction (crescendo\u2013decrescendo at LUSB), not the VSD size.",
+    "difficulty": "Easy",
+    "tags": [
+      "auscultation"
+    ]
+  }
+]
